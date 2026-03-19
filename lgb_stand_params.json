@@ -1,0 +1,699 @@
+{
+  "target_1_1": {
+    "best_auc": 0.9070060630388375,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_1_2": {
+    "best_auc": 0.7845144785274158,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_1_3": {
+    "best_auc": 0.8590024879374077,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_1_4": {
+    "best_auc": 0.8228247490387792,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_1_5": {
+    "best_auc": 0.8720541730496585,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_2_1": {
+    "best_auc": 0.7919941296485319,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_2_2": {
+    "best_auc": 0.9313742117471824,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_2_3": {
+    "best_auc": 0.7792988338813442,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_2_4": {
+    "best_auc": 0.7198320496227752,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_2_5": {
+    "best_auc": 0.7511953824556257,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_2_6": {
+    "best_auc": 0.7043260254984931,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_2_7": {
+    "best_auc": 0.7899335017452181,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_2_8": {
+    "best_auc": 0.9315542446811388,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_3_1": {
+    "best_auc": 0.6867073363759779,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_3_2": {
+    "best_auc": 0.9074320551194797,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_3_3": {
+    "best_auc": 0.7009882095031581,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_3_4": {
+    "best_auc": 0.9112705232232916,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_3_5": {
+    "best_auc": 0.9680211644010774,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_4_1": {
+    "best_auc": 0.8392507764147377,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_5_1": {
+    "best_auc": 0.7333182524403978,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_5_2": {
+    "best_auc": 0.7037033654274389,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_6_1": {
+    "best_auc": 0.686163161775497,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_6_2": {
+    "best_auc": 0.703225576732529,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_6_3": {
+    "best_auc": 0.734753204152553,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_6_4": {
+    "best_auc": 0.8373325838898686,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_6_5": {
+    "best_auc": 0.9216045355404645,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_7_1": {
+    "best_auc": 0.7987899748162153,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_7_2": {
+    "best_auc": 0.8463043361659937,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_7_3": {
+    "best_auc": 0.7409334663523959,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_8_1": {
+    "best_auc": 0.9780234664256867,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_8_2": {
+    "best_auc": 0.8341421411908324,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_8_3": {
+    "best_auc": 0.8702348734890004,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_9_1": {
+    "best_auc": 0.7687332965573062,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_9_2": {
+    "best_auc": 0.8198550120900714,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_9_3": {
+    "best_auc": 0.6652690526764579,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_9_4": {
+    "best_auc": 0.886014757706871,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_9_5": {
+    "best_auc": 0.810612621834015,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_9_6": {
+    "best_auc": 0.683978661487251,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_9_7": {
+    "best_auc": 0.7465281839175996,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_9_8": {
+    "best_auc": 0.9261156599474174,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  },
+  "target_10_1": {
+    "best_auc": 0.7529341066910491,
+    "best_params": {
+      "objective": "binary",
+      "metric": "auc",
+      "verbose": -1,
+      "n_estimators": 1000,
+      "learning_rate": 0.05,
+      "num_leaves": 64,
+      "max_depth": -1,
+      "min_child_samples": 20,
+      "feature_fraction": 0.8,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "random_state": 42
+    }
+  }
+}
